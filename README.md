@@ -1,7 +1,6 @@
 # 💫 About Me:
 ### Pasukiendol's owner here, Alex<br>
 <br>Studied Web & Cross-Platform Application Development<br>
-<br>Currently learning at [Aranova](https://www.aranova.es/)<br>
 
 
 ## 🌐 Socials:
