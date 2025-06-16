@@ -5,7 +5,7 @@
 ## 🧰 Tecnologías y herramientas:
 - **Frontend**: HTML, CSS, JavaScript, TypeScript (con Next.js)
 - **Backend / Bases de datos**: SQL, C# (Windows Forms), Java básico
-- **Otros conocimientos**: Diseño de interfaces de escritorio con Windows Forms, patrones básicos de arquitectura, conexión a bases de datos
+- **Otros conocimientos**: Diseño de interfaces de escritorio con Windows Forms, <br>patrones básicos de arquitectura, conexión a bases de datos
 
 ---
 
