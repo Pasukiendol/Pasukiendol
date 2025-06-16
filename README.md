@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 ### Pasukiendol's owner here, Alex<br>
 <br>Desarrollador Junior<br>
 
