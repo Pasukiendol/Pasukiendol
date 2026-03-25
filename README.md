@@ -1,5 +1,5 @@
 # Alejandro Luzán Carrasco – Desarrollador Junior Fullstack
-Apasionado por la programación y el desarrollo de aplicaciones web y de escritorio.
+Apasionado por la programación y el desarrollo de aplicaciones web y de escritorio.  
 Busco proyectos y oportunidades para crecer profesionalmente.
 
 ## Tecnologías y Herramientas
