@@ -1,27 +1,23 @@
-# 💫 Sobre mi:
-### Pasukiendol's owner here, Alex<br>
-<br>Desarrollador Junior<br>
+# Alejandro Luzán Carrasco – Desarrollador Junior Fullstack
+Apasionado por la programación y el desarrollo de aplicaciones web y de escritorio.
+Busco proyectos y oportunidades para crecer profesionalmente.
 
-## 🧰 Tecnologías y herramientas:
-- **Frontend**: HTML, CSS, JavaScript, TypeScript (con Next.js)
-- **Backend / Bases de datos**: SQL, C# (Windows Forms), Java básico
-- **Otros conocimientos**: Diseño de interfaces de escritorio con Windows Forms, <br>patrones básicos de arquitectura, conexión a bases de datos
-
----
-
-## 💼 Formación
-
-- 🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW)  
-- 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
+## Tecnologías y Herramientas
+**Lenguajes:** Java, C#, JavaScript, TypeScript, SQL  
+**Frontend:** HTML, CSS, React, Next.js  
+**Backend / Bases de datos:** C# (.NET/Windows Forms), Java básico, SQL Server  
+**Otros:** Diseño de interfaces de escritorio, patrones de arquitectura, integración con bases de datos, Git
 
 ---
 
-Actualmente trabajando en proyectos personales
+## Formación
+- Técnico Superior en Desarrollo de Aplicaciones Web (DAW)  
+- Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)  
+
+Actualmente desarrollando proyectos personales y ampliando habilidades en Fullstack.
 
 ---
 
-## 📫 Contacto
-
-- ✉️ Pasukiendollol@hotmail.es
-
+## Contacto
+- ✉️ Email: pasukiendollol@hotmail.es || Alejandroluzan@outlook.es
 ---
